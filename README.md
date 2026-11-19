@@ -24,7 +24,7 @@ Este repositorio solo contiene las **versiones publicadas (APK)**. El código fu
 | | |
 |---|---|
 | 🗺️ **Ruta de aprendizaje** | Plan completo del Nivel 0 (fundamentos absolutos) al Nivel 5 (dominio profesional): 39 módulos y 190 lecciones. Las lecciones se desbloquean por **competencias**: hay que aprobar las evaluaciones de lo anterior. |
-| 📚 **Lecciones interactivas** | 67 lecciones publicadas (Niveles 0 y 1 completos), con teoría, ejemplos, diagramas, tablaturas, pentagramas, ejercicios con tempo, errores frecuentes, resumen, evaluación con explicación de cada respuesta y desafío práctico. Puedes **escuchar** cada tablatura y pentagrama. |
+| 📚 **Lecciones interactivas** | 99 lecciones publicadas (Niveles 0, 1 y 2 completos), con teoría, ejemplos, diagramas, tablaturas, pentagramas, ejercicios con tempo, errores frecuentes, resumen, evaluación con explicación de cada respuesta y desafío práctico. Puedes **escuchar** cada tablatura y pentagrama, que incluyen técnicas como hammer-on, pull-off, slide, bending y vibrato. |
 | 🎯 **Diapasón interactivo** | Escalas, acordes, intervalos y notas en todo el mástil, con nombres, grados o intervalos; cajas pentatónicas, 3 notas por cuerda, formas CAGED y digitaciones calculadas. 10 afinaciones, modo zurdo, y cada traste suena al tocarlo. |
 | 📖 **Biblioteca** | 22 escalas y modos, 36 tipos de acorde, intervalos, progresiones y las 12 tonalidades con su armadura y campo armónico. Buscador y favoritos. |
 | 🎙️ **Afinador real** | Afinador cromático por micrófono (detección de tono YIN, precisión de ±1 cent), con la cuerda más cercana según tu afinación y referencia La configurable. |
@@ -81,6 +81,7 @@ apksigner verify --print-certs GuitarAcademy.apk
 
 | Versión | Novedades |
 |---|---|
+| **0.6.0** | Nivel 2 completo: triadas, campo armónico, séptimas, progresiones y cadencias, blues, CAGED, escalas en posiciones, pentatónicas y técnicas de expresión. |
 | **0.5.0** | Nivel 1 completo (ritmo, acordes abiertos, técnica), ejercicios de ritmo por micrófono, técnica con registro de tempo, backing tracks, grabaciones, objetivo diario y logros. |
 | **0.4.0** | Exámenes de módulo y de nivel, repaso espaciado, panel de progreso y desbloqueo por competencias. |
 | **0.3.0** | Afinador por micrófono, metrónomo, entrenamiento auditivo, botones para escuchar las lecciones y botón "Siguiente lección". |
@@ -91,8 +92,8 @@ Detalle de cada versión en [Releases](https://github.com/CamiloFerreira/GuitarA
 
 ## 🛣️ Próximamente
 
-- **0.6:** Nivel 2: triadas e inversiones, campo armónico, acordes de séptima, progresiones y cadencias, CAGED, pentatónicas y blues, técnicas de expresión (bending, vibrato, legato).
-- **0.7 en adelante:** Niveles 3 a 5 (armonía, CAGED, pentatónicas, modos, improvisación, composición, producción, jazz y dominio profesional) y optimización para tablets.
+- **0.7:** Nivel 3: modos griegos, armonía funcional avanzada (dominantes secundarios, sustitución de tritono, intercambio modal), técnica avanzada (sweep, tapping, economy picking) e improvisación.
+- **0.8 en adelante:** Niveles 4 y 5 (armonía, CAGED, pentatónicas, modos, improvisación, composición, producción, jazz y dominio profesional) y optimización para tablets.
 
 ## 💬 Sugerencias y errores
 
