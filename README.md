@@ -24,15 +24,19 @@ Este repositorio solo contiene las **versiones publicadas (APK)**. El código fu
 | | |
 |---|---|
 | 🗺️ **Ruta de aprendizaje** | Plan completo del Nivel 0 (fundamentos absolutos) al Nivel 5 (dominio profesional): 39 módulos y 190 lecciones. Las lecciones se desbloquean por **competencias**: hay que aprobar las evaluaciones de lo anterior. |
-| 📚 **Lecciones interactivas** | 47 lecciones publicadas (Nivel 0 completo y teoría del Nivel 1), con teoría, ejemplos, diagramas, tablaturas, pentagramas, ejercicios con tempo, errores frecuentes, resumen, evaluación con explicación de cada respuesta y desafío práctico. Puedes **escuchar** cada tablatura y pentagrama. |
+| 📚 **Lecciones interactivas** | 67 lecciones publicadas (Niveles 0 y 1 completos), con teoría, ejemplos, diagramas, tablaturas, pentagramas, ejercicios con tempo, errores frecuentes, resumen, evaluación con explicación de cada respuesta y desafío práctico. Puedes **escuchar** cada tablatura y pentagrama. |
 | 🎯 **Diapasón interactivo** | Escalas, acordes, intervalos y notas en todo el mástil, con nombres, grados o intervalos; cajas pentatónicas, 3 notas por cuerda, formas CAGED y digitaciones calculadas. 10 afinaciones, modo zurdo, y cada traste suena al tocarlo. |
 | 📖 **Biblioteca** | 22 escalas y modos, 36 tipos de acorde, intervalos, progresiones y las 12 tonalidades con su armadura y campo armónico. Buscador y favoritos. |
 | 🎙️ **Afinador real** | Afinador cromático por micrófono (detección de tono YIN, precisión de ±1 cent), con la cuerda más cercana según tu afinación y referencia La configurable. |
 | ⏱️ **Metrónomo** | Compases simples, compuestos (6/8, 9/8, 12/8) e irregulares (5/8, 7/8), subdivisiones, acentos y *tap tempo*, con temporización exacta. |
 | 👂 **Entrenamiento auditivo** | Alturas, notas, intervalos, acordes y escalas en 3 niveles, con ejercicios generados al azar. Cuando fallas, te explica la diferencia concreta. |
+| 🥁 **Ritmo** | Toca patrones rítmicos (negras, síncopas, tresillos, semicorcheas, galope…) y el micrófono mide tu precisión en milisegundos. La latencia del teléfono se calibra sola en cada toma. |
+| 🏋️ **Técnica** | Ejercicios con tempo inicial y objetivo, metrónomo integrado y registro del tempo alcanzado para seguir tu progreso técnico. |
+| 🎶 **Backing tracks** | Progresiones clásicas o generadas al azar siguiendo las funciones tonales, en cualquier tonalidad, en bucle, con diagramas de cada acorde. |
+| 🎙️ **Grabaciones** | Grábate y escúchate para corregir tu interpretación (se guarda solo en tu teléfono). |
 | 📝 **Exámenes** | Examen al final de cada módulo y evaluación general por nivel, con preguntas nuevas en cada intento y nota mínima configurable. |
 | 🔁 **Repaso espaciado** | Lo que fallas vuelve en el momento adecuado (algoritmo SM-2), para que no se olvide. |
-| 📊 **Progreso** | Competencias dominadas y débiles, errores recurrentes, historial de exámenes, racha y tiempo de estudio, y recomendaciones de qué estudiar después. |
+| 📊 **Progreso** | Competencias dominadas y débiles, errores recurrentes, historial de exámenes, racha, objetivo diario, logros y certificados por nivel, y recomendaciones de qué estudiar después. |
 
 Todo el contenido musical (escalas, acordes, digitaciones, tablaturas) se genera o se verifica automáticamente con un motor de teoría musical probado, para que no haya fórmulas ni diagramas incorrectos.
 
@@ -54,7 +58,7 @@ Todo el contenido musical (escalas, acordes, digitaciones, tablaturas) se genera
 
 | Permiso | Para qué se usa |
 |---|---|
-| Micrófono | Solo el afinador. El audio se analiza en el dispositivo y **nunca se guarda ni se envía**. |
+| Micrófono | Afinador, ejercicios de ritmo y grabaciones. El audio se analiza en el dispositivo; las grabaciones se guardan solo en tu teléfono y **nunca se envían**. |
 | Internet | Solo para comprobar y descargar actualizaciones desde este repositorio. |
 | Instalar aplicaciones | Solo para instalar las actualizaciones de la propia app. |
 
@@ -77,6 +81,7 @@ apksigner verify --print-certs GuitarAcademy.apk
 
 | Versión | Novedades |
 |---|---|
+| **0.5.0** | Nivel 1 completo (ritmo, acordes abiertos, técnica), ejercicios de ritmo por micrófono, técnica con registro de tempo, backing tracks, grabaciones, objetivo diario y logros. |
 | **0.4.0** | Exámenes de módulo y de nivel, repaso espaciado, panel de progreso y desbloqueo por competencias. |
 | **0.3.0** | Afinador por micrófono, metrónomo, entrenamiento auditivo, botones para escuchar las lecciones y botón "Siguiente lección". |
 | **0.2.1** | Teoría del Nivel 1: intervalos, escalas mayor y menor, tonalidades, armaduras y círculo de quintas (16 lecciones). |
@@ -86,8 +91,8 @@ Detalle de cada versión en [Releases](https://github.com/CamiloFerreira/GuitarA
 
 ## 🛣️ Próximamente
 
-- **0.5:** parte práctica del Nivel 1: ritmo con detección de ataques por micrófono, acordes abiertos, técnica con progresión de tempo, generador de progresiones y acompañamientos, grabación de prácticas, objetivos diarios y logros.
-- **0.6 en adelante:** Niveles 2 a 5 (armonía, CAGED, pentatónicas, modos, improvisación, composición, producción, jazz y dominio profesional) y optimización para tablets.
+- **0.6:** Nivel 2: triadas e inversiones, campo armónico, acordes de séptima, progresiones y cadencias, CAGED, pentatónicas y blues, técnicas de expresión (bending, vibrato, legato).
+- **0.7 en adelante:** Niveles 3 a 5 (armonía, CAGED, pentatónicas, modos, improvisación, composición, producción, jazz y dominio profesional) y optimización para tablets.
 
 ## 💬 Sugerencias y errores
 
